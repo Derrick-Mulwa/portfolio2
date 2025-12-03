@@ -16,7 +16,7 @@ window.personalInfo = {
 window.skills = [
   {
     name: "Python",
-    icon: "../images/python_icon.svg",
+    icon: "images/python_icon.svg",
     description: "I am adept in using Python for data collection via APIs, database connections, and web scraping; for cleaning and analyzing data with Pandas and NumPy; and for building and optimizing machine learning models using scikit-learn, TensorFlow, and Statsmodels, delivering actionable insights and accurate forecasting.",
   },
   {
@@ -62,7 +62,7 @@ window.projectCategories = [
     projects: [
       {
         title: "Sales Analysis Dashboard for a Diamond Shop",
-        image: "./images/sales analysis dashboard.png",
+        image: "images/sales analysis dashboard.png",
         description: "This Power BI dashboard serves as a comprehensive analytical tool designed to provide deep insights into the sales and operational performance of a diamond shop. Leveraging data from a single Excel file with multiple tabs, the dashboard effectively consolidates information related to sales analysis, certified diamonds, and data entry operations.",
         tags: ["Power BI", "DAX", "Power Query", "Excel", "Sales Analysis"],
         link: "https://github.com/Derrick-Mulwa/Sales-Analysis-Dashboard/blob/main/README.md"
