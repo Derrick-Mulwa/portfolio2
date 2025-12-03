@@ -62,14 +62,14 @@ window.projectCategories = [
     projects: [
       {
         title: "Sales Analysis Dashboard for a Diamond Shop",
-        image: "../images/sales analysis dashboard.png",
+        image: "./images/sales analysis dashboard.png",
         description: "This Power BI dashboard serves as a comprehensive analytical tool designed to provide deep insights into the sales and operational performance of a diamond shop. Leveraging data from a single Excel file with multiple tabs, the dashboard effectively consolidates information related to sales analysis, certified diamonds, and data entry operations.",
         tags: ["Power BI", "DAX", "Power Query", "Excel", "Sales Analysis"],
         link: "https://github.com/Derrick-Mulwa/Sales-Analysis-Dashboard/blob/main/README.md"
       },
       {
         title: "Survey Data Analysis",
-        image: "../images/SurveyDataAnalysis.png",
+        image: "./images/SurveyDataAnalysis.png",
         description: "In this project, I conducted the analysis of survey data to understand merchants' detailed preferences and priorities regarding Value-Added Services. I communicated the findings through an informative Power BI report.",
         tags: ["Python", "Power BI", "Survey Data Analysis", "Strategic Thinking"],
         link: "https://github.com/Derrick-Mulwa/Survey-data-analysis/blob/main/README.md"
@@ -196,7 +196,7 @@ window.projectCategories = [
       },
       {
         title: "Web Scraper for Real Estate Agent Profiles",
-        image: "../images/homesPic.avif",
+        image: "./images/homesPic.avif",
         description: "This project is a web scraping tool designed to extract detailed profiles of real estate agents from various U.S. cities. Using Selenium and Python, the tool gathers essential agent information including names, ratings, and contact details.",
         tags: ["Selenium", "Python", "Chrome WebDriver", "Pandas", "Requests"],
         link: "https://github.com/Derrick-Mulwa/Real-Estate-Agent-Web-Scraping/blob/main/README.md"
